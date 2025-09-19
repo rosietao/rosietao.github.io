@@ -10,14 +10,17 @@
 main:
   - title: "Publications"
     url: /publications/
+    visible: false
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/  
+    visible: false
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+    visible: false
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -31,3 +34,4 @@ main:
     
   - title: "Guide"
     url: /markdown/
+    visible: false
