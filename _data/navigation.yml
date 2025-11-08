@@ -20,18 +20,18 @@ main:
   #   url: /teaching/ 
   #   visible: false
     
-  - title: "Projects"
+  - title: "Research Projects"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
-    visible: false
+  # - title: "Guide"
+  #   url: /markdown/
+  #   visible: false
