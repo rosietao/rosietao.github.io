@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Prediction-Powered Inference under Structured Bias"
+excerpt: "Developing finite-sample guarantees for PPI under structured label bias, with applications to reliable ML evaluation.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Overview
+This project extends the Prediction-Powered Inference (PPI) framework to settings where annotator bias follows a structured pattern. We develop finite-sample confidence intervals and hypothesis tests that remain valid under such bias, with a target submission to NeurIPS.
+
+**Advisor:** Prof. Claire Donnat, University of Chicago
+
+## Links
+- [Paper](#)
+- [GitHub](#)
